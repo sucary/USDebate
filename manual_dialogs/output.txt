@@ -2,7 +2,7 @@
 In a world where memes decide elections and fact-checkers are the real MVPs, our intrepid debate host steps up to the podium, ready to drop questions hotter than a viral tweet.
 
 November 5, 2024. Philadelphia.
-The culmination of the presidential election is about to take place--
+The culmination of the presidential election is about to take place...
 The presidential debate
 This is the event that decides the ruler of the strongest, richest, the most free, diverse and hypocratic country in the world.
 Voters across the country will make their decisions right after the debate. 
@@ -16,8 +16,6 @@ Player: Tonight, the high-stakes showdown here in Philadelphia between Vice Pres
 Player: Their first face-to-face meeting in this presidential election. Their first face-to-face meeting ever.
 Player: A historic race for president upended just weeks ago. President Biden withdrawing after his last debate. Donald Trump is now up against a new opponent.
 Player: The candidates separated by the smallest of margins. Essentially tied in the polls nationally.
-Player: And in the key battlegrounds, including right here in Pennsylvania, all still very much in play. The ABC News Presidential Debate starts right now.
-Player: Good evening, I'm Player. And thank you for joining us for tonight's ABC News Presidential Debate.
 Player: We want to welcome viewers watching on ABC and around the world tonight.
 Player: Vice President Kamala Harris and President Donald Trump are just moments away from taking the stage in this unprecedented race for president.
 
@@ -26,14 +24,11 @@ Player: Of course, that decision followed his debate against President Donald Tr
 Player: And that brings us to the rules of tonight's debate: 90 minutes with two commercial breaks. No topics or questions have been shared with the campaigns.
 Player: The candidates will have two minutes to answer questions. And this is the clock. That's what they'll be seeing.
 Player: Two minutes for rebuttals and one minute for follow-ups, clarifications or responses. Their microphones will only be turned on when it's their turn to speak.
-Player: No prewritten notes allowed. There is no audience here tonight in this hall at the National Constitution Center.
-Player: This is an intimate setting for two candidates who have never met.
-Player: President Trump won the coin toss. He chose to deliver the final closing statement of the evening. Vice President Harris selected the podium to the right.
+Player: No prewritten notes allowed.
 Player: So let's now welcome the candidates to the stage. Vice President Kamala Harris and President Donald Trump.
 Kamala Harris: Kamala Harris. Let's have a good debate.
 Donald Trump: Nice to see you. Have fun.
 Kamala Harris: Thank you.
-Donald Trump: Thank you.
 
 
 Player: Welcome to you both. It's wonderful to have you. It's an honor to have you both here tonight.
@@ -43,217 +38,187 @@ Player: you and President Trump were elected four years ago and your opponent on
 Player: are you better off than you were four years ago? When it comes to the economy, do you believe Americans are better off than they were four years ago?
 
 Kamala Harris: So, I was raised as a middle-class kid.
-Kamala Harris: And I am actually the only person on this stage who has a plan that is about lifting up the middle class and working people of America.
+Kamala Harris: I am the only person on this stage who has a plan about lifting up the middle class and working people of America.
 Kamala Harris: I believe in the ambition, the aspirations, the dreams of the American people.
-Kamala Harris: And that is why I imagine and have actually a plan to build what I call an opportunity economy. Because here's the thing.
-Kamala Harris: We know that we have a shortage of homes and housing, and the cost of housing is too expensive for far too many people.
-Kamala Harris: We know that young families need support to raise their children. And I intend on extending a tax cut for those families of $6,000,
-Kamala Harris: which is the largest child tax credit that we have given in a long time. So that those young families can afford to buy a crib, buy a car seat,
-Kamala Harris: buy clothes for their children. My passion, one of them, is small businesses.
-Kamala Harris: I was actually -- my mother raised my sister and me but there was a woman who helped raise us. We call her our second mother. She was a small business owner.
-Kamala Harris: I love our small businesses. My plan is to give a $50,000 tax deduction to start-up small businesses,
-Kamala Harris: knowing they are part of the backbone of America's economy. My opponent, on the other hand, his plan is to do what he has done before,
-Kamala Harris: which is to provide a tax cut for billionaires and big corporations, which will result in $5 trillion to America's deficit.
-Kamala Harris: My opponent has a plan that I call the Trump sales tax, which would be a 20% tax on everyday goods that you rely on to get through the month.
-Kamala Harris: Economists have said that Trump's sales tax would actually result for middle-class families in about $4,
-Kamala Harris: 000 more a year because of his policies and his ideas about what should be the backs of middle-class people paying for tax cuts for billionaires.
+Kamala Harris: I have a plan to build what I call an opportunity economy.
+Kamala Harris: We know that we have a shortage of homes, and the cost of housing is too expensive for far too many people.
+Kamala Harris: We know that young families need support to raise their children. I intend to extend a $6,000 tax cut for those families.
+Kamala Harris: So that those young families can afford to buy a crib, buy a car seat, buy clothes for their children.
+Kamala Harris: My passion is small businesses.
+Kamala Harris: My mother raised my sister and me, but there was a woman who helped raise us. She was a small business owner.
+Kamala Harris: I love our small businesses. My plan is to give a $50,000 tax deduction to start-up small businesses.
+Kamala Harris: My opponent’s plan is to provide a tax cut for billionaires and big corporations, which will result in $5 trillion to America's deficit.
+Kamala Harris: My opponent has a plan I call the Trump sales tax, a 20% tax on everyday goods.
+Kamala Harris: Economists have said that Trump’s sales tax would cost middle-class families about $4,000 more a year.
 Player: President Trump, I'll give you two minutes.
-Donald Trump: First of all, I have no sales tax. That's an incorrect statement. She knows that. We're doing tariffs on other countries. Other countries are going to finally,
-Donald Trump: after 75 years, pay us back for all that we've done for the world. And the tariff will be substantial in some cases. I took in billions and billions of dollars,
-Donald Trump: as you know, from China. In fact, they never took the tariff off because it was so much money, they can't.
-Donald Trump: It would totally destroy everything that they've set out to do. They've taken in billions of dollars from China and other places. They've left the tariffs on.
-Donald Trump: When I had it, I had tariffs and yet I had no inflation. Look, we've had a terrible economy because inflation has -- which is really known as a country buster.
-Donald Trump: It breaks up countries. We have inflation like very few people have ever seen before. Probably the worst in our nation's history. We were at 21%.
-Donald Trump: But that's being generous because many things are 50, 60, 70, and 80% higher than they were just a few years ago. This has been a disaster for people,
-Donald Trump: for the middle class, but for every class. On top of that, we have millions of people pouring into our country from prisons and jails,
-Donald Trump: from mental institutions and insane asylums.
-Donald Trump: And they're coming in and they're taking jobs that are occupied right now by African Americans and Hispanics and also unions.
-Donald Trump: Unions are going to be affected very soon. And you see what's happening. You see what's happening with towns throughout the United States.
-Donald Trump: You look at Springfield, Ohio. You look at Aurora in Colorado. They are taking over the towns. They're taking over buildings. They're going in violently.
-Donald Trump: These are the people that she and Biden let into our country. And they're destroying our country. They're dangerous.
-Donald Trump: They're at the highest level of criminality. And we have to get them out. We have to get them out fast.
-Donald Trump: I created one of the greatest economies in the history of our country. I'll do it again and even better.
+Donald Trump: First of all, I have no sales tax. That's incorrect. We're doing tariffs on other countries.
+Donald Trump: Other countries are going to finally pay us back for what we've done for the world.
+Donald Trump: I took in billions from China. They can't take the tariff off because it's too much money.
+Donald Trump: When I had tariffs, there was no inflation. We’ve had a terrible economy because inflation is a country buster.
+Donald Trump: Inflation has been the worst in our nation's history. We were at 21%.
+Donald Trump: Many things are 50, 60, 70, and 80% higher than just a few years ago.
+Donald Trump: We have millions of people pouring into our country from prisons and jails.
+Donald Trump: They're taking jobs from African Americans, Hispanics, and unions.
+Donald Trump: They’re taking over towns like Springfield, Ohio, and Aurora, Colorado.
+Donald Trump: These are the people Biden let in, and they are destroying our country.
+Donald Trump: I created one of the greatest economies in the history of our country. I'll do it again.
 
 Player: We are going to get to immigration and border security during this debate. But I would like to let Vice President Harris respond on the economy here.
 
 Kamala Harris: Well, I would love to. Let's talk about what Donald Trump left us. Donald Trump left us the worst unemployment since the Great Depression.
 Kamala Harris: Donald Trump left us the worst public health epidemic in a century. Donald Trump left us the worst attack on our democracy since the Civil War.
 Kamala Harris: And what we have done is clean up Donald Trump's mess.
-Kamala Harris: What we have done and what I intend to do is build on what we know are the aspirations and the hopes of the American people. But I'm going to tell you all,
-Kamala Harris: in this debate tonight, you're going to hear from the same old, tired playbook, a bunch of lies, grievances and name-calling.
-Kamala Harris: What you're going to hear tonight is a detailed and dangerous plan called Project 2025 that the former president intends on implementing if he were elected again.
-Kamala Harris: I believe very strongly that the American people want a president who understands the importance of bringing us together knowing we have so much more in common than what separates us.
-Kamala Harris: And I pledge to you to be a president for all Americans.
-
+Kamala Harris: What we have done is build on the aspirations and hopes of the American people. 
+Kamala Harris: But tonight, you're going to hear the same old playbook: lies, grievances, and name-calling.
+Kamala Harris: You're going to hear about Project 2025, a dangerous plan Trump intends to implement if re-elected.
+Kamala Harris: I believe the American people want a president who brings us together. And I pledge to be a president for all Americans.
 Player: President Trump, I'll give you a minute here to respond.
-
-Donald Trump: Number one, I have nothing to do, as you know and as she knows better than anyone, I have nothing to do with Project 2025. That's out there. I haven't read it.
-Donald Trump: I don't want to read it, purposely. I'm not going to read it. This was a group of people that got together, they came up with some ideas. I guess some good,
-Donald Trump: some bad. But it makes no difference. I have nothing to do -- everybody knows I'm an open book. Everybody knows what I'm going to do.
-Donald Trump: Cut taxes very substantially. And create a great economy like I did before. We had the greatest economy. We got hit with a pandemic. And the pandemic was,
-Donald Trump: not since 1917 where 100 million people died has there been anything like it? We did a phenomenal job with the pandemic.
-Donald Trump: We handed them over a country where the economy and where the stock market was higher than it was before the pandemic came in.
-Donald Trump: Nobody's ever seen anything like it. We made ventilators for the entire world. We got gowns. We got masks. We did things that nobody thought possible.
-Donald Trump: And people give me credit for rebuilding the military. They give me credit for a lot of things.
-Donald Trump: But not enough credit for the great job we did with the pandemic. But the only jobs they got were bounce-back jobs. These were jobs, bounce back.
-Donald Trump: And it bounced back and it went to their benefit. But I was the one that created them. They know it and so does everybody else.
-
+Donald Trump: Number one, I have nothing to do with Project 2025. I haven’t read it, and I don’t plan to.
+Donald Trump: This was a group of people with ideas—some good, some bad. But I have nothing to do with it. I’m an open book. Everyone knows what I’ll do.
+Donald Trump: I’ll cut taxes and create a great economy like I did before. We had the greatest economy before the pandemic hit.
+Donald Trump: We did a phenomenal job handling the pandemic. We handed over a country where the stock market was higher than before the pandemic.
+Donald Trump: We made ventilators for the world, got gowns, masks—things no one thought possible.
+Donald Trump: I get credit for rebuilding the military, but not enough for the great job we did with the pandemic.
+Donald Trump: The jobs they claim were bounce-back jobs, but I was the one who created them.
 Player: Vice President Harris, I'll let you respond.
-
 Kamala Harris: So, Donald Trump has no plan for you. And when you look at his economic plan, it's all about tax breaks for the richest people.
-Kamala Harris: I am offering what I describe as an opportunity economy, and the best economists in our country, if not the world,
-Kamala Harris: have reviewed our relative plans for the future of America. What Goldman Sachs has said is that Donald Trump's plan would make the economy worse.
-Kamala Harris: Mine would strengthen the economy. What the Wharton School has said is Donald Trump's plan would actually explode the deficit.
-Kamala Harris: Sixteen Nobel laureates have described his economic plan as something that would increase inflation and by the middle of next year would invite a recession.
-Kamala Harris: You just have to look at where we are and where we stand on the issues. And I'd invite you to know that Donald Trump actually has no plan for you,
-Kamala Harris: because he is more interested in defending himself than he is in looking out for you.
-Donald Trump: That's just a sound bite. They gave her that to say. Look, I went to the Wharton School of Finance and many of those professors, the top professors,
-Donald Trump: think my plan is a brilliant plan, it's a great plan. It's a plan that's going to bring up our worth, our value as a country.
-Donald Trump: It's going to make people want to be able to go and work and create jobs and create a lot of good, solid money for our -- for our country.
-Donald Trump: And just to finish off, she doesn't have a plan. She copied Biden's plan. And it's like four sentences, like run-Spot-run. Four sentences that are just oh,
-Donald Trump: we'll try and lower taxes. She doesn't have a plan. Take a look at her plan. She doesn't have a plan.
+Kamala Harris: I'm offering an opportunity economy. Top economists, like Goldman Sachs, say Trump’s plan would make the economy worse. Mine would strengthen it.
+Kamala Harris: The Wharton School says Trump’s plan would explode the deficit. Sixteen Nobel laureates say his plan would increase inflation and cause a recession.
+Kamala Harris: And I'd invite you to know that Donald Trump actually has no plan for you.
+Kamala Harris: He’s more interested in defending himself than looking out for you.
+Donald Trump: That's just a sound bite. They gave her that to say. 
+Donald Trump: Look, I went to the Wharton School of Finance and many of those professors, the top professors, think my plan is a brilliant plan, it's a great plan.
+Donald Trump: They think my plan is a brilliant plan, it's a great plan. It's a plan that's going to bring up our worth, our value as a country.
+Donald Trump: My plan will create jobs and solid money for our -- our country.
+Donald Trump: And just to finish off, she doesn't have a plan. She copied Biden's plan. 
+Donald Trump: And it's like four sentences, like run-Spot-run. Four sentences that are just oh, we'll try and lower taxes.
+Donald Trump:  She doesn't have a plan. Take a look at her plan. She doesn't have a plan.
 
 tariff
 
 
 Player: Mr. President, I do want to drill down on something you both brought up.
-Player: The vice president brought up your tariffs you responded and let's drill down on this because your plan is what she calls is a essentially a national sales tax.
-Player: Your proposal calls for tariffs as you pointed out here, on foreign imports across the board. You recently said that you might double your plan,
-Player: imposing tariffs up to 20% on good coming into this country.
-Player: As you know many economists say that with tariffs at that level costs are then passed onto the consumer.
-Player: Vice President Harris has argued it'll mean higher prices on gas, food,
-Player: clothing medication arguing it costs the typical family nearly four thousand dollars a year.
+Player: The vice president mentioned your tariffs, and you responded. Your plan has been called a national sales tax.
+Player: You propose tariffs on foreign imports across the board, and you’ve said you might double the tariffs, imposing up to 20% on goods coming into the country.
+Player: Many economists say costs will be passed onto consumers. 
+Player: Vice President Harris argues it will mean higher prices on gas, food, clothing, and medication, costing families nearly $4,000 a year.
 Player: Do you believe Americans can afford higher prices because of tariffs.
 
-Donald Trump: They aren't gonna have higher prices what's gonna have and who's gonna have higher prices is China and all of the countries that have been ripping us off for years.
-Donald Trump: I charge,
-Donald Trump: I was the only president ever China was paying us hundreds of billions of dollars and so were other countries 
-Donald Trump: and you know if she doesn't like 'em they should have gone out and they should have immediately cut the tariffs but those tariffs are there three and a half years now under their administration.
-Donald Trump: We are gonna take in billions of dollars, hundreds of billions of dollars. I had no inflation, virtually no inflation, they had the highest inflation,
-Donald Trump: perhaps in the history of our country because I've never seen a worse period of time. People can't go out and buy cereal bacon or eggs or anything else.
-Donald Trump: These the people of our country are absolutely dying with what they've done. They've destroyed the economy and all you have to do it look at a poll.
-Donald Trump: The polls say 80 and 85 and even 90% that the Trump economy was great that their economy was terrible.
+Donald Trump: They aren't gonna have higher prices. What's gonna have and who's gonna have higher prices is China! 
+Donald Trump: And all of the countries that have been ripping us off for years.
+Donald Trump: I was the only president to make China pay us hundreds of billions of dollars. Those tariffs have been in place for three and a half years under their administration.
+Donald Trump: We are gonna take in billions of dollars, hundreds of billions of dollars. I had no inflation, virtually no inflation. 
+Donald Trump: They had the highest inflation, perhaps in the history of our country.
+Donald Trump: People can’t buy cereal, bacon, or eggs. The people of this country are suffering because of what they’ve done.
+Donald Trump: The polls say 80 and 85 and even 90% that the Trump economy was great, and their economy was terrible.
 
-Player: Vice President Harris I do want to ask for your response and you heard what the president said there because the Biden administration did keep a number of the Trump tariffs in place so how do you respond?
-
-Kamala Harris: Well, let's be clear that the Trump administration resulted in a trade deficit, one of the highest we've ever seen in the history of America.
-Kamala Harris: He invited trade wars,
-Kamala Harris: you wanna talk about his deal with China what he ended up doing is under Donald Trump's presidency he ended up selling American chips to China to help them improve and modernize their military.
-Kamala Harris: Which means focusing on the details of what that requires, focusing on relationships with our allies,
-Kamala Harris: focusing on investing in American based technology so that we win the race on A.I. and quantum computing,
-Kamala Harris: focusing on what we need to do to support America's workforce, so that we don't end up having the on the short end of the stick in terms of workers' rights.
-Kamala Harris: But what Donald Trump did let's talk about this with COVID, is he actually thanked President XI for what he did during COVID. Look at his tweet. 
+Player: Vice President Harris, I want to ask for your response. 
+Player: You heard what the president said, and the Biden administration did keep a number of the Trump tariffs in place. 
+Player: How do you respond?
+Kamala Harris: Let's be clear—the Trump administration led to one of the highest trade deficits in our history of America.
+Kamala Harris: He invited trade wars.
+Kamala Harris: Under Trump's presidency, he sold American chips to China, helping them modernize their military.
+Kamala Harris: We should focus on relationships with our allies and invest in American technology to win the race in A.I. and quantum computing.
+Kamala Harris: We need to support America's workforce and protect workers' rights.
+Kamala Harris: But what Donald Trump did, let's talk about this with COVID, is he actually thanked President XI for what he did during COVID. Look at his tweet. 
 Kamala Harris: "Thank you, President XI," exclamation point. When we know that XI was responsible for lacking and not giving us transparency about the origins of COVID.
 
 Player: President Trump, I'll let you respond.
 
-Donald Trump: First of all, they bought their chips from Taiwan. We hardly make chips anymore because of philosophies like they have and policies like they have.
+Donald Trump: First of all, they bought their chips from Taiwan. We hardly make chips anymore because of their policies.
 Donald Trump: I don't say her because she has no policy. Everything that she believed three years ago and four years ago is out the window. She's going to my philosophy now.
-Donald Trump: In fact, I was going to send her a MAGA hat. She's gone to my philosophy. But if she ever got elected, she'd change it. And it will be the end of our country.
+Donald Trump: In fact, I was going to send her a MAGA hat. She's gone to my philosophy. 
+Donald Trump: But if she ever got elected, she'd change it. And it will be the end of our country.
 Donald Trump: She's a Marxist. Everybody knows she's a Marxist. Her father's a Marxist professor in economics. And he taught her well.
-Donald Trump: But when you look at what she's done to our country and when you look at these millions and millions of people that are pouring into our country monthly where it's I believe 21 million people,
-Donald Trump: not the 15 that people say, and I think it's a lot higher than the 21. That's bigger than New York state. Pouring in.
-Donald Trump: And just look at what they're doing to our country. They're criminals. Many of these people coming in are criminals. And that's bad for our economy too.
-Donald Trump: You mentioned before, we'll talk about immigration later.
-Donald Trump: Well, bad immigration is the worst thing that can happen to our economy. 
+Donald Trump: Millions of people are pouring into our country, more than 21 million. That’s bigger than New York state.
+Donald Trump: Many of them are criminals, and that’s bad for our economy too.
+Donald Trump: Bad immigration is the worst thing for our economy.
 Donald Trump: They have and she has destroyed our country with policy that's insane. Almost policy that you'd say they have to hate our country.
 
 abortion
 
+Player: I want to turn to the issue of abortion. 
+Player: President Trump, you've often touted that you were able to kill Roe v. Wade. 
+Player: Last year, you said that you were proud to be the most pro-life president in American history.
+Player: Then last month, you said your administration would be great for women and their reproductive rights.
+Player: In Florida, you surprised many with the six-week abortion ban. 
+Player: You initially said six weeks was too short, but then reversed course and supported the six-week ban.
+Player: Vice President Harris says women shouldn’t trust you on abortion because of your changing positions. Why should they trust you?
 
-Player: I want to turn to the issue of abortion. President Trump, you've often touted that you were able to kill Roe v. Wade. Last year,
-Player: you said that you were proud to be the most pro-life president in American history.
-Player: Then last month you said that your administration would be great for women and their reproductive rights. In your home state of Florida,
-Player: you surprised many with regard to your six-week abortion ban because you initially had said that it was too short and you said,
-Player: "I'm going to be voting that we need more than six weeks." But then the very next day, you reversed course and said you would vote to support the six-week ban.
-Player: Vice President Harris says that women shouldn't trust you on the issue of abortion because you've changed your position so many times.
-Player: Therefore,why should they trust you?
+Donald Trump: Well, I supported the vote because the Democrats are extreme. They’re pushing for abortion in the ninth month.
+Donald Trump: Look at the previous governor of West Virginia, he said, "The baby will be born, and we will decide what to do." That’s execution, not abortion.
+Donald Trump: And her vice presidential pick? A horrible choice. He’s okay with abortion in the ninth month and even execution after birth. That’s not okay with me.
+Donald Trump: What I did was something they tried for 52 years—getting Roe v. Wade back to the states. 
+Donald Trump: Thanks to six Supreme Court justices, we did that.
+Donald Trump: I believe in exceptions for rape, incest, and life of the mother. Reagan did too. Most Republicans do. Very important. But now, states are voting.
+Donald Trump: This issue has torn the country apart for 52 years. Every legal scholar, Democrat, Republican—everyone wanted this to go to the states for a vote.
+Donald Trump: Now, it’s happening. Ohio and Kansas had more liberal votes than expected, but the people are voting.
+Donald Trump: It’s no longer tied to the federal government. I did a great service, and it took courage. 
+Donald Trump: The Supreme Court justices showed great courage too. Tremendous credit to them.
 
-Donald Trump: Well, the reason I'm doing that vote is because the plan is, as you know, the vote is, they have abortion in the ninth month. They even have,
-Donald Trump: and you can look at the governor of West Virginia, the previous governor of West Virginia, not the current governor, who's doing an excellent job,
-Donald Trump: but the governor before. He said the baby will be born and we will decide what to do with the baby. In other words, we'll execute the baby.
-Donald Trump: And that's why I did that, because that predominates. Because they're radical. The Democrats are radical in that. And her vice presidential pick,
-Donald Trump: which I think was a horrible pick, by the way for our country, because he is really out of it.
-Donald Trump: But her vice presidential pick says abortion in the ninth month is absolutely fine. He also says execution after birth, it's execution, no longer abortion,
-Donald Trump: because the baby is born, is okay. And that's not okay with me. Hence the vote. But what I did is something for 52 years they've been trying to get Roe v.
-Donald Trump: Wade into the states.
-Donald Trump: And through the genius and heart and strength of six supreme court justices we were able to do that. Now, I believe in the exceptions for rape,
-Donald Trump: incest and life of the mother. I believe strongly in it. Ronald Reagan did also. 85% of Republicans do. Exceptions. Very important. But we were able to get it.
-Donald Trump: And now states are voting on it. And for the first time you're going to see -- look, this is an issue that's torn our country apart for 52 years.
-Donald Trump: Every legal scholar, every Democrat, every Republican, liberal, conservative,
-Donald Trump: they all wanted this issue to be brought back to the states where the people could vote. And that's what happened, happened. Now, Ohio,
-Donald Trump: the vote was somewhat liberal. Kansas the vote was somewhat liberal. Much more liberal than people would have thought. But each individual state is voting.
-Donald Trump: It's the vote of the people now. It's not tied up in the federal government. I did a great service in doing it. It took courage to do it.
-Donald Trump: And the supreme court had great courage in doing it. And I give tremendous credit to those six justices.
+Player: There is no state in this country where it is legal to kill a baby after it's born. 
+Player: Madam vice president, I want to get your response to President Trump.
 
-Player: There is no state in this country where it is legal to kill a baby after it's born. Madam vice president, I want to get your response to President Trump.
-
-Kamala Harris: Well, as I said, you're going to hear a bunch of lies. And that's not actually a surprising fact. Let's understand how we got here.
-Kamala Harris: Donald Trump hand-selected three members of the United States Supreme Court with the intention that they would undo the protections of Roe v. Wade.
-Kamala Harris: And they did exactly as he intended.
-Kamala Harris: And now in over 20 states there are Trump abortion bans which make it criminal for a doctor or nurse to provide health care.
-Kamala Harris: In one state it provides prison for life. Trump abortion bans that make no exception even for rape and incest. Which understand what that means.
-Kamala Harris: A survivor of a crime, a violation to their body, does not have the right to make a decision about what happens to their body next. That is immoral.
-Kamala Harris: And one does not have to abandon their faith or deeply held beliefs to agree the government, and Donald Trump certainly,
-Kamala Harris: should not be telling a woman what to do with her body.
-Kamala Harris: I have talked with women around our country. You want to talk about this is what people wanted?
-Kamala Harris: Pregnant women who want to carry a pregnancy to term suffering from a miscarriage,
-Kamala Harris: being denied care in an emergency room because the health care providers are afraid they might go to jail and she's bleeding out in a car in the parking lot?
-Kamala Harris: She didn't want that. Her husband didn't want that. A 12 or 13-year-old survivor of incest being forced to carry a pregnancy to term? They don't want that.
-Kamala Harris: And I pledge to you when Congress passes a bill to put back in place the protections of Roe v. Wade as president of the United States,
-Kamala Harris: I will proudly sign it into law. But understand, if Donald Trump were to be re-elected, he will sign a national abortion ban.
-Kamala Harris: Understand in his Project 2025 there would be a national abortion ban.
-Kamala Harris: Understand in his Project 2025 there would be a national abortion -- a monitor that would be monitoring your pregnancies, your miscarriages.
-Kamala Harris: I think the American people believe that certain freedoms, in particular the freedom to make decisions about one's own body,
-Kamala Harris: should not be made by the government.
+Kamala Harris: Well, as I said, you're going to hear a bunch of lies. That’s no surprise. Let's understand how we got here.
+Kamala Harris: Donald Trump hand-picked three Supreme Court justices to undo Roe v. Wade, and they did exactly what he wanted.
+Kamala Harris: Now, in over 20 states, there are Trump abortion bans that make it criminal for doctors and nurses to provide care.
+Kamala Harris: In one state, it's prison for life. No exceptions for rape or incest. Imagine what that means.
+Kamala Harris: A survivor of a crime, a violation, can’t decide what happens to her body next. That’s immoral.
+Kamala Harris: You don’t have to abandon your faith to agree that Trump shouldn’t be telling women what to do with their bodies.
+Kamala Harris: I’ve spoken with women across the country. Pregnant women who wanted to carry to term but had a miscarriage, denied care in the ER.
+Kamala Harris: Providers are afraid of going to jail, and she’s bleeding out in the parking lot. She didn’t want that. Her husband didn’t want that.
+Kamala Harris: A 12-year-old survivor of incest being forced to carry a pregnancy to term? They don’t want that.
+Kamala Harris: When Congress passes a bill to restore Roe v. Wade, I’ll proudly sign it into law.
+Kamala Harris: But if Trump is re-elected, he will sign a national abortion ban.
+Kamala Harris: Under Project 2025, they’ll monitor your pregnancies, your miscarriages.
+Kamala Harris: Americans believe the government shouldn’t make decisions about our bodies.
 
 Player: Thank you, Vice President Harris.
 
-Donald Trump: Well, there she goes again. It's a lie. I'm not signing a ban. And there's no reason to sign a ban. Because we've gotten what everybody wanted. Democrats,
-Donald Trump: Republicans and everybody else and every legal scholar wanted it to be brought back into the states. And the states are voting. And it may take a little time,
-Donald Trump: but for 52 years this issue has torn our country apart. And they've wanted it back in the states. And I did something that nobody thought was possible.
-Donald Trump: The states are now voting. What she says is an absolute lie. And as far as the abortion ban, no, I'm not in favor of abortion ban.
+Donald Trump: Well, there she goes again. It's a lie. I'm not signing a ban. And there's no reason to sign a ban. 
+Donald Trump: Because we've gotten what everybody wanted. 
+Donald Trump: Democrats, republicans and everybody else and every legal scholar wanted it to be brought back into the states. 
+Donald Trump: And the states are voting. It may take a little time, but for 52 years this issue tore the country apart.
+Donald Trump: They've wanted it back in the states. And I did something that nobody thought was possible: the states are now voting.
+Donald Trump: What she says is an absolute lie. I'm not in favor of abortion ban.
 Donald Trump: But it doesn't matter because this issue has now been taken over by the states.
 
+Challenge!
 Player: Would you veto a national abortion ban if it came to --
 
-Donald Trump: Well, I won't have to because again -- two things. Number one, she said she'll go back to congress. She'll never get the vote.
-Donald Trump: It's impossible for her to get the vote. Especially now with a 50-50 --essentially 50-50 in both senate and the house. She's not going to get the vote.
-Donald Trump: She can't get the vote. She won't even come close to it. So it's just talk. You know what it reminds me of?
+Donald Trump: I won’t have to. Two reasons. Number one, she said she'd go to Congress, but she’ll never get the votes. 
+Donald Trump: It’s impossible. The Senate and House are basically 50-50 right now. She can’t even get close. It's just talk.
 Donald Trump: When they said they're going to get student loans terminated and it ended up being a total catastrophe.
-Donald Trump: The student loans -- and then her I think probably her boss, if you call him a boss, he spends all his time on the beach, but look,
-Donald Trump: her boss went out and said we'll do it again, we'll do it a different way. He went out, got rejected again by the supreme court.
-Donald Trump: So all these students got taunted with this whole thing about -- this whole idea. And how unfair that would have been. Part of the reason they lost.
-Donald Trump: To the millions and millions of people that had to pay off their student loans. They didn't get it for free.
-Donald Trump: But they were saying -- it's the same way that they talked about that, that they talk about abortion.
+Donald Trump: This reminds me of when they promised to cancel student loans, and it turned into a disaster. 
+Donald Trump: They taunted students with false hope. 
+Donald Trump: And then her boss, who spends all his time on the beach, tried again, and the Supreme Court shot it down. 
+Donald Trump: Same thing with abortion—just more talk.
 
+Challenge!
 Player: But if I could just get a yes or no. Because your running mate JD Vance has said that you would veto if it did come to your desk.
 
-Donald Trump: Well, I didn't discuss it with JD In all fairness. JD -- And I don't mind if he has a certain view but I think he was speaking for me but I really didn't. Look,
-Donald Trump: we don't have to discuss it because she'd never be able to get it just like she couldn't get student loans.
-Donald Trump: They couldn't get -- they didn't even come close to getting student loans. They didn't even come close to getting student loans.
-Donald Trump: They taunted young people and a lot of other people that had loans. They can never get this approved.
-Donald Trump: So it doesn't matter what she says about going to congress. Wonderful. Let's go to congress. Do it.
-Donald Trump: But the fact is that for years they wanted to get it out of congress and out of the federal government and we did something that everybody said couldn't be done.
-Donald Trump: And now you have a vote of the people on abortion.
+Donald Trump: Well, I didn't discuss it with JD In all fairness. JD -- And I don't mind if he has a certain view.
+Donald Trump: Look, we don't have to discuss it because she'd never be able to get it...
+Donald Trump: just like she couldn't get student loans.
+Donald Trump: They didn’t even come close to getting those loans approved. 
+Donald Trump: They taunted young people and a lot of others with loans. They can never get this passed.
+Donald Trump: So it doesn't matter what she says about going to congress. 
+Donald Trump: Wonderful! Let's go to congress. Do it!
 
-Player: Vice President Harris, I want to give you your time to respond. But I do want to ask, would you support any restrictions on a woman's right to an abortion?
+Player: Vice President Harris, I want to give you your time to respond. 
+Player: But I do want to ask, would you support any restrictions on a woman's right to an abortion?
 
-Kamala Harris: I absolutely support reinstating the protections of Roe v. Wade. And as you rightly mentioned,
-Kamala Harris: nowhere in America is a woman carrying a pregnancy to term and asking for an abortion. That is not happening. It's insulting to the women of America.
-Kamala Harris: And understand what has been happening under Donald Trump's abortion bans. Couples who pray and dream of having a family are being denied IVF treatments.
-Kamala Harris: What is happening in our country, working people, working women who are working one or two jobs, who can barely afford childcare as it is,
-Kamala Harris: have to travel to another state to get on a plane sitting next to strangers, to go and get the health care she needs. Barely can afford to do it.
-Kamala Harris: And what you are putting her through is unconscionable.
-Kamala Harris: And the people of America have not -- the majority of Americans believe in a woman's right to make decisions about her own body.
+Kamala Harris: I absolutely support reinstating the protections of Roe v. Wade.
+Kamala Harris: And as you rightly mentioned, nowhere in America is a woman carrying a pregnancy to term and asking for an abortion.
+Kamala Harris: That is not happening. It's insulting to the women of America.
+Kamala Harris: The people of America have not -- the majority of Americans believe in a woman's right to make decisions about her own body.
 Kamala Harris: And that is why in every state where this issue has been on the ballot, in red and blue states both, the people of America have voted for freedom.
 
-Player: Vice president Harris --
-
-Donald Trump: Excuse me, I have to respond. Another lie. It's another lie. I have been a leader on IVF which is fertilization. The IVF -- I have been a leader. In fact,
-Donald Trump: when they got a very negative decision on IVF from the Alabama courts, I saw the people of Alabama and the legislature two days later voted it in.
-Donald Trump: I've been a leader on it. They know that and everybody else knows it. I have been a leader on fertilization, IVF. And the other thing, they -- you should ask,
-Donald Trump: will she allow abortion in the eighth month, ninth month, seventh month?
+Donald Trump: Excuse me, I have to respond. Another lie. It's another lie.
+Donald Trump: I have been a leader on IVF which is fertilization. The IVF -- I have been a leader. 
+Donald Trump: In fact, when they got a very negative decision on IVF from the Alabama courts, I saw the people of Alabama and the legislature two days later voted it in.
+Donald Trump: I've been a leader on it. They know that and everybody else knows it. I have been a leader on fertilization, IVF. 
+Donald Trump: And the other thing, you should ask, will she allow abortion in the eighth month, ninth month, seventh month?
 Kamala Harris: Come on.
 Donald Trump: Would you do that? Why don't you ask her that question --
 Kamala Harris: Why don't you answer the question would you veto --
@@ -267,244 +232,244 @@ Player: President Trump, thank you.
 
 immigration and border
 
-Player: We're going to turn now to immigration and border security. We know it's an issue that's important to Republicans, Democrats,
-Player: voters across the board in this country. Vice President Harris,
-Player: you were tasked by President Biden with getting to the root causes of migration from Central America.
-Player: We know that illegal border crossings reached a record high in the Biden administration. This past June, President Biden imposed tough new asylum restrictions.
+Player: We're going to turn now to immigration and border security. 
+Player: We know it's an issue that's important to Republicans, Democrats, voters across the board in this country.
+Player: Vice President Harris, you were tasked by President Biden with getting to the root causes of migration from Central America.
+Player: We know that illegal border crossings reached a record high in the Biden administration. 
+Player: This past June, President Biden imposed tough new asylum restrictions.
 Player: We know the numbers since then have dropped significantly.
+Player: Why did the administration wait until six months before the election to act --
+Player: and would you have done anything differently from President Biden on this?
 
-Player: But my question to you tonight is why did the administration wait until six months before the election to act and would you have done anything differently from President Biden on this?
-
-Kamala Harris: So I'm the only person on this stage who has prosecuted transnational criminal organizations for the trafficking of guns, drugs, and human beings.
-Kamala Harris: And let me say that the United States Congress, including some of the most conservative members of the United States Senate,
-Kamala Harris: came up with a border security bill which I supported. And that bill would have put 1,
-Kamala Harris: 500 more border agents on the border to help those folks who are working there right now over time trying to do their job.
-Kamala Harris: It would have allowed us to stem the flow of fentanyl coming into the United States.
-Kamala Harris: I know there are so many families watching tonight who have been personally affected by the surge of fentanyl in our country.
-Kamala Harris: That bill would have put more resources to allow us to prosecute transnational criminal organizations for trafficking in guns, drugs and human beings.
-Kamala Harris: But you know what happened to that bill? Donald Trump got on the phone, called up some folks in Congress, and said kill the bill. And you know why?
-Kamala Harris: Because he preferred to run on a problem instead of fixing a problem. And understand,
-Kamala Harris: this comes at a time where the people of our country actually need a leader who engages in solutions, who actually addresses the problems at hand.
-Kamala Harris: But what we have in the former president is someone who would prefer to run on a problem instead of fixing a problem. And I'll tell you something,
-Kamala Harris: he's going to talk about immigration a lot tonight even when it's not the subject that is being raised.
-Kamala Harris: And I'm going to actually do something really unusual and I'm going to invite you to attend one of Donald Trump's rallies because it's a really interesting thing to watch.
-Kamala Harris: You will see during the course of his rallies he talks about fictional characters like Hannibal Lecter. He will talk about windmills cause cancer.
-Kamala Harris: And what you will also notice is that people start leaving his rallies early out of exhaustion and boredom.
-Kamala Harris: And I will tell you the one thing you will not hear him talk about is you. You will not hear him talk about your needs, your dreams, and your, your desires.
-Kamala Harris: And I'll tell you, I believe you deserve a president who actually puts you first. And I pledge to you that I will.
+Kamala Harris: And let me say that the United States Congress, including some conservative members, came up with a border security bill which I supported.
+Kamala Harris: That bill would have put 1,500 more border agents on the border.
+Kamala Harris: It would have stemmed the flow of fentanyl coming into the United States.
+Kamala Harris: That bill would have allowed us to prosecute transnational criminal organizations.
+Kamala Harris: But you know what happened to that bill? Donald Trump called up some folks in Congress and said kill the bill.
+Kamala Harris: What we have in the former president is someone who would prefer to run on a problem.
+Kamala Harris: And I'll invite you to attend one of Donald Trump's rallies.
+Kamala Harris: You will see during his rallies he talks about fictional characters like Hannibal Lecter.
+Kamala Harris: He will talk about windmills causing cancer.
+Kamala Harris: And you will notice people start leaving his rallies early out of exhaustion.
+Kamala Harris: You will not hear him talk about your needs, your dreams, and your desires.
+Kamala Harris: I believe you deserve a president who puts you first.
+Kamala Harris: And I pledge to you that I will.
 
 Player: Vice President Harris, thank you. President Trump, on that point I want to get your response.
 Donald Trump: Well, I would like to respond.
 
 Player: Let me just ask, though, why did you try to kill that bill and successfully so? That would have put thousands of additional agents and officers on the border.
-
-Donald Trump: First let me respond as to the rallies. She said people start leaving. People don't go to her rallies. There's no reason to go. And the people that do go,
-Donald Trump: she's busing them in and paying them to be there. And then showing them in a different light. So, she can't talk about that. People don't leave my rallies.
-Donald Trump: We have the biggest rallies, the most incredible rallies in the history of politics. That's because people want to take their country back.
-Donald Trump: Our country is being lost. We're a failing nation. And it happened three and a half years ago. And what, what's going on here,
-Donald Trump: you're going to end up in World War 3, just to go into another subject.
+Donald Trump: First, about the rallies. People don’t leave mine; they don’t go to hers. The ones who do are bused in and paid.
+Donald Trump: We have the biggest rallies in political history because people want their country back.
+Donald Trump: Our nation is failing, and it started three and a half years ago.
+Donald Trump: With millions coming in, we're on the brink of World War 3.
 Donald Trump: What they have done to our country by allowing these millions and millions of people to come into our country.
 Donald Trump: And look at what's happening to the towns all over the United States. And a lot of towns don't want to talk -- not going to be Aurora or Springfield.
-Donald Trump: A lot of towns don't want to talk about it because they're so embarrassed by it. In Springfield, they're eating the dogs. The people that came in.
-Donald Trump: They're eating the cats. They're eating -- they're eating the pets of the people that live there. And this is what's happening in our country. And it's a shame.
-Donald Trump: As far as rallies are concerned, as far -- the reason they go is they like what I say. They want to bring our country back.
-Donald Trump: They want to make America great again. It's a very simple phrase. Make America great again. She's destroying this country. And if she becomes president,
-Donald Trump: this country doesn't have a chance of success. Not only success. We'll end up being Venezuela on steroids.
+Donald Trump: A lot of towns don't want to talk about it because they're so embarrassed by it.
 
-Player: I just want to clarify here, you bring up Springfield, Ohio. And ABC News did reach out to the city manager there.
-Player: He told us there have been no credible reports of specific claims of pets being harmed, injured or abused by individuals within the immigrant community --
-Donald Trump: Well, I've seen people on television
+Donald Trump: In Springfield, they're eating the dogs. The people that came in.
+Donald Trump: They're eating the cats. They're eating -- they're eating the pets of the people that live there. 
+Donald Trump: And this is what's happening in our country. And it's a shame.
+Donald Trump: People come to my rallies because they like what I say. They want to make America great again.
+Donald Trump: It's a very simple phrase. Make America great again. 
+Donald Trump: She's destroying this country. And if she becomes president, this country doesn't have a chance of success.
+Donald Trump: Not only success. We'll end up being Venezuela on steroids.
+
+Challenge!
+Player: I just want to clarify here, you bring up Springfield, Ohio.
+Player: ABC News reached out to the city manager, who said there are no credible reports of pets being harmed by immigrants.
+Donald Trump: Well, I've seen people on television --
 Player: Let me just say here this ...
-Donald Trump: The people on television say my dog was taken and used for food. So maybe he said that and maybe that's a good thing to say for a city manager.
+Donald Trump: The people on television say my dog was taken and used for food. 
+Donald Trump: So maybe he said that and maybe that's a good thing to say for a city manager.
 Player: I'm not taking this from television. I'm taking it from the city manager.
 Donald Trump: But the people on television say their dog was eaten by the people that went there.
 Player: Again, the Springfield city manager says there's no evidence of that.
-Donald Trump: We'll find out
+Donald Trump: We'll find out.
 
 Player: Vice President Harris, I'll let you respond to the rest of what you heard.
 
-Kamala Harris: Talk about extreme. Um, you know,
-Kamala Harris: this is I think one of the reasons why in this election I actually have the endorsement of 200 Republicans who have formally worked with President Bush,
-Kamala Harris: Mitt Romney, and John McCain including the endorsement of former Vice President Dick Cheney and Congressmember Liz Cheney.
-Kamala Harris: And if you want to really know the inside track on who the former president is, if he didn't make it clear already, just ask people who have worked with him.
-Kamala Harris: His former chief of staff, a four-star general, has said he has contempt for the constitution of the United States.
-Kamala Harris: His former national security adviser has said he is dangerous and unfit. His former secretary of defense has said the nation,
-Kamala Harris: the republic would never survive another Trump term. And when we listen to this kind of rhetoric,
-Kamala Harris: when the issues that affect the American people are not being addressed, I think the choice is clear in this election.
-Player: President Trump, I'll give you a quick minute to respond.
+Kamala Harris: Talk about extreme, Um, you know --
+Kamala Harris: I have the endorsement of 200 Republicans who worked with Bush, Romney, and McCain, 
+Kamala Harris: including former Vice President Dick Cheney and Congressmember Liz Cheney.
+Kamala Harris: If you want to know the truth about the former president, just ask those who've worked with him.
+Kamala Harris: His former chief of staff, a four-star general, said he has contempt for the Constitution.
+Kamala Harris: His former national security adviser called him dangerous and unfit.
+Kamala Harris: His former secretary of defense warned that the republic wouldn’t survive another Trump term.
+Kamala Harris: When rhetoric like this goes unchecked and issues affecting the American people aren't addressed, the choice is clear in this election.
+
 Donald Trump: Yeah. Thank you. Because when I hear that -- see, I'm a different kind of a person. I fired most of those people. Not so graciously.
-Donald Trump: They did bad things or a bad job. I fired them. They never fired one person.
-Donald Trump: They didn't fire anybody having to do with Afghanistan and the Taliban and the 13 people whose, whose,
-Donald Trump: were just killed viciously and violently killed and I got to know the parents and the family. They should have fired all those generals,
-Donald Trump: all those top people because that was one of the most incompetently handled situations anybody has ever seen. So when somebody does a bad job I fire them.
-Donald Trump: And you take a guy like Esper. He was no good, I fired him. So he writes a book. Another one writes a book. Because with me they can write books.
-Donald Trump: With nobody else can they. But they have done such a poor job. And they never fire anybody. Look at the economy. Look at the inflation.
-Donald Trump: They didn't fire any of their economists. They have the same people. That's a good way not to have books written about you. But just to finish,
-Donald Trump: I got more votes than any Republican in history by far. In fact, I got more votes than any president, sitting president in history by far.
+Donald Trump: They did bad things or a bad job. I fired them. Democrats never fired one person.
+Donald Trump: Look at Afghanistan and the 13 people who were viciously killed, and I got to know the parents and the family.
+Donald Trump: They should have fired all those generals, It was incompetently handled.
+Denald Trump: That was one of the most incompetently handled situations anybody has ever seen.
+Donald Trump: So when somebody does a bad job I fire them.
+Donald Trump: And you take a guy like Esper. He was no good, I fired him. So he writes a book. 
+Donald Trump: Another one writes a book. Because with me they can write books.
+Donald Trump: Look at the economy. Look at the inflation. They didn't fire any of their economists. 
+Donald Trump: That's a good way not to have books written about you.
+Donald Trump: But just to finish, I got more votes than any Republican in history by far.
+Donald Trump: In fact, I got more votes than any president, sitting president in history by far.
+
 
 Player: Let me continue on immigration. It was what you wanted to talk about earlier.
-Player: So let's get back to your deportation proposal that the vice president has reacted to as well. President Trump,
-Player: you called this the largest domestic deportation operation in the history of our country. You say you would use the National Guard.
-Player: You say if things get out of control you'd have no problem using the U.S. military.
+Player: So let's get back to your deportation proposal that the vice president has reacted to as well. 
+Player: President Trump, you called this the largest domestic deportation operation in the history of our country. 
+Player: You say you would use the National Guard. If things get out of control you'd have no problem using the U.S. military.
 Donald Trump: With local police.
-Player: You also said you would use local police. How would you deport 11 million undocumented immigrants? I know you believe that number is much higher.
-Player: Take us through this. What does this look like? Will authorities be going door to door in this country?
+Player: How would you deport 11 million undocumented immigrants? Will authorities be going door to door?
+Donald Trump: Yes, it's a much higher number because they allowed millions of criminals in.
+Donald Trump: They let in terrorists and drug dealers.
+Donald Trump: Countries like Venezuela tell their criminals not to come back or they’ll be killed.
+Donald Trump: Do you know crime is way down in Venezuela?
+Donald Trump: They’ve sent their criminals here, and that’s a huge mistake.
+Donald Trump: I think they did it hoping for votes, but they’re destroying the fabric of our country.
+Donald Trump: Millions of people let in, and crime is skyrocketing here. Despite their claims, crime is through the roof.
+Donald Trump: We have a new type of crime called migrant crime, happening at unbelievable levels.
 
-Donald Trump: Yeah. It is much higher because of them. They allowed criminals. Many, many, millions of criminals. They allowed terrorists.
-Donald Trump: They allowed common street criminals. They allowed people to come in, drug dealers, to come into our country, and they're now in the United States.
-Donald Trump: And told by their countries like Venezuela don't ever come back or we're going to kill you.
-Donald Trump: Do you know that crime in Venezuela and crime in countries all over the world is way down? You know why?
-Donald Trump: Because they've taken their criminals off the street and they've given them to her to put into our country.
-Donald Trump: And this will be one of the greatest mistakes in history for them to allow -- and I think they probably did it because they think they're going to get votes.
-Donald Trump: But it's not worth it. Because they're destroying the fabric of our country by what they've done. There's never been anything done like this at all.
-Donald Trump: They've destroyed the fabric of our country. Millions of people let in. And all over the world crime is down. All over the world except here.
-Donald Trump: Crime here is up and through the roof. Despite their fraudulent statements that they made. Crime in this country is through the roof.
-Donald Trump: And we have a new form of crime. It's called migrant crime. And it's happening at levels that nobody thought possible.
+Challenge!
 Player: President Trump, as you know, the FBI says overall violent crime is coming down in this country, but Vice President the...
-Donald Trump: use me, the FBI -- they were defrauding statements. They didn't include the worst cities. They didn't include the cities with the worst crime. It was a fraud.
-Donald Trump: Just like their number of 818,000 jobs that they said they created turned out to be a fraud.
+Donald Trump: The FBI is lying. They didn't include the worst cities. It was a fraud.
+Donald Trump: Just like their claim of 818,000 jobs created turned out to be a fraud.
 
 Player: President Trump, thank you. I'll let you respond, Vice President Harris.
 
-Kamala Harris: Well, I think this is so rich. Coming from someone who has been prosecuted for national security crimes, economic crimes, election interference,
-Kamala Harris: has been found liable for sexual assault and his next big court appearance is in November at his own criminal sentencing.
-Kamala Harris: And let's be clear where each person stands on the issue of what is important about respect for the rule of law and respect for law enforcement.
-Kamala Harris: The former vice president called for defunding, federal law enforcement, 45,000 agents, get this, on the day after he was arraigned on 34 felony counts.
-Kamala Harris: So let's talk about what is important in this race. It is important that we move forward, that we turn the page on this same old tired rhetoric.
-Kamala Harris: And address the needs of the American people, address what we need to do about the housing shortage, which I have a plan for. 
-Kamala Harris: Address what we must do to support our small businesses. Address bringing down the price of groceries. But frankly, the American people are exhausted with the same old tired playbook.
+Kamala Harris: This is rich coming from someone prosecuted for national security crimes, economic crimes, and election interference.
+Kamala Harris: He’s been found liable for sexual assault, and his next big court appearance is in November for his own sentencing.
+Kamala Harris: Let’s be clear about respect for the rule of law.
+Kamala Harris: The former vice president called for defunding federal law enforcement, 45,000 agents, right after being arraigned on 34 felony counts.
+Kamala Harris: It’s time to move forward, turn the page on this tired rhetoric --
+Kamala Harris: and address the needs of the American people. We need to tackle the housing shortage, support small businesses, and lower grocery prices.
+Kamala Harris: The American people are exhausted with the same old playbook.
 
 Player: Vice President Harris, thank you.
 
-Donald Trump: Excuse me. Every one of those cases was started by them against their political opponent. And I'm winning most of them and I'll win the rest on appeal.
-Donald Trump: And you saw that with the decision that came down just recently from the Supreme Court. I'm winning most of them. But those are cases,
-Donald Trump: it's called weaponization. Never happened in this country. They weaponized the justice department. Every one of those cases was involved with the DOJ,
-Donald Trump: from Atlanta and Fani Willis -- to the attorney general of New York and the D.A. In New York. Every one of those cases. And then they say oh,
-Donald Trump: he was -- he's a criminal. They're the ones that made them go after me. By the way, Joe Biden was found essentially guilty on the documents case.
-Donald Trump: And what happened in my documents case? They said oh, that's the toughest of them all. A complete and total victory. Two months ago it was thrown out.
-Donald Trump: It's weaponization. And they used it. And it's never happened in this country. They used it to try and win an election. They're fake cases.
+Donald Trump: Excuse me. All those cases were started by them against their political opponent.
+Donald Trump: I’m winning most of them and will win the rest on appeal.
+Donald Trump: The recent Supreme Court decision proves that.
+Donald Trump: They’ve weaponized the justice department against me, from Fani Willis in Atlanta to the D.A. in New York.
+Donald Trump: They say I’m a criminal, but they made them go after me.
+Donald Trump: Joe Biden was found guilty in the documents case, but mine was thrown out.
+Donald Trump: It’s weaponization, and it’s never happened in this country. They’re fake cases trying to win an election.
 
 Player: President Trump, thank you. A really quick response here, Vice President Harris, on this notion of weaponization of the justice department.
 
 Kamala Harris: Well let's talk about extreme. And understand the context in which this election in 2024 is taking place.
 Kamala Harris: The United States Supreme Court recently ruled that the former president would essentially be immune from any misconduct if he were to enter the white house again.
 Kamala Harris: Understand, this is someone who has openly said he would terminate, I'm quoting, terminate the constitution of the United States.
-Kamala Harris: That he would weaponize the Department of Justice against his political enemies. Someone who has openly expressed disdain for members of our military.
-Kamala Harris: Understand what it would mean if Donald Trump were back in the white house with no guardrails. Because certainly, we know now the court won't stop him.
+Kamala Harris: That he would weaponize the Department of Justice against his political enemies. 
+Kamala Harris: Someone who has openly expressed disdain for members of our military.
+Kamala Harris: Understand what it would mean if Donald Trump were back in the white house with no guardrails. 
+Kamala Harris: Because certainly, we know now the court won't stop him.
 Kamala Harris: We know JD Vance is not going to stop him. It's up to the American people to stop him.
 
 Player: Vice President Harris, thank you. Vice President Harris, in your last run for president...
-Donald Trump: This is the one that weaponized. Not me. She weaponized. I probably took a bullet to the head because of the things that they say about me.
-Donald Trump: They talk about democracy. I'm a threat to democracy. They're the threat to democracy -- With the fake Russia Russia Russia investigation that went nowhere.
+Donald Trump: This is the one that weaponized. Not me. She weaponized. 
+Donald Trump: I probably took a bullet to the head because of the things that they say about me.
+Donald Trump: They talk about democracy. I'm a threat to democracy, blablabla... 
+Donald Trump: They're the threat to democracy -- With the fake Russia investigation that went nowhere.
 Player: We have a lot to get to.
 
 Fracking
 
-Player: Vice President Harris, in your last run for president you said you wanted to ban fracking. Now you don't.
-Player: You wanted mandatory government buyback programs for assault weapons. Now your campaign says you don't. You supported decriminalizing border crossings.
-Player: Now you're taking a harder line. I know you say that your values have not changed. So then why have so many of your policy positions changed?
+Player: Vice President Harris, in your last run, you wanted to ban fracking. Now you don't.
+Player: You wanted mandatory government buyback programs for assault weapons. Now your campaign says you don't.
+Player: You supported decriminalizing border crossings, but now you're taking a harder line.
+Player: I know you say your values haven’t changed. So why have so many of your policy positions changed?
 
-Kamala Harris: So my values have not changed. And I'm going to discuss every one -- at least every point that you've made. 
-Kamala Harris: But in particular, let's talk about fracking because we're here in Pennsylvania. I made that very clear in 2020. I will not ban fracking.
-Kamala Harris: I have not banned fracking as Vice President of the United States. And, in fact, I was the tie-breaking vote on the Inflation Reduction Act,
-Kamala Harris: which opened new leases for fracking. My position is that we have got to invest in diverse sources of energy so we reduce our reliance on foreign oil.
-Kamala Harris: We have had the largest increase in domestic oil production in history because of an approach that recognizes that we cannot over rely on foreign oil.
-Kamala Harris: As it relates to my values, let me tell you,
-Kamala Harris: I grew up a middle-class kid raised by a hard-working mother who worked and saved and was able to buy our first home when I was a teenager.
-Kamala Harris: The values I bring to the importance of home ownership knowing not everybody got handed $400 million on a silver platter and then filed bankruptcy six times,
-Kamala Harris: is a value that I bring to my work to say we are going to work with the private sector and home builders to increase 3 million homes,
-Kamala Harris: increase by 3 million homes by the end of my first term.
-Kamala Harris: My work that is related to having a friend when I was in high school who was sexually assaulted by her stepfather. And my focus then,
-Kamala Harris: on protecting women and children from violent crime,
-Kamala Harris: is based on a value that is deeply grounded in the importance of standing up for those who are most vulnerable.
-Kamala Harris: My work that is about protecting social security and Medicare is based on long-standing work that I have done. Protecting seniors from scams.
 Kamala Harris: My values have not changed.
-Kamala Harris: And what is important is that there is a president who actually brings values and a perspective that is about lifting people up and not beating people down and name-calling.
-Kamala Harris: The true measure of the leader is the leader who actually understands that strength is not in beating people down, it's in lifting people up.
+Kamala Harris: Let's talk about fracking since we're in Pennsylvania. I will not ban fracking.
+Kamala Harris: I have not banned it as Vice President. I was the tie-breaking vote on the Inflation Reduction Act, which opened new leases for fracking.
+Kamala Harris: We need to invest in diverse energy sources to reduce our reliance on foreign oil.
+Kamala Harris: We’ve had the largest increase in domestic oil production in history because of this approach.
+Kamala Harris: I grew up a middle-class kid raised by a hardworking mother who bought our first home when I was a teenager.
+Kamala Harris: I understand the importance of home ownership. Not everyone gets handed $400 million.
+Kamala Harris: I want to work with the private sector to increase home building by 3 million homes by the end of my first term.
+Kamala Harris: I also focus on protecting women and children from violent crime, based on personal experience.
+Kamala Harris: My work in protecting Social Security and Medicare has been long-standing.
+Kamala Harris: My values haven’t changed.
+Kamala Harris: A president should lift people up, not beat them down with name-calling.
+Kamala Harris: True strength is about lifting people up.
 Kamala Harris: I intend to be that president.
+
 Player: President Trump, your response.
-Donald Trump: Well, first of all, I wasn't given $400 million. I wish I was. My father was a Brooklyn builder. Brooklyn, Queens.
-Donald Trump: And a great father and I learned a lot from him. But I was given a fraction of that, a tiny fraction, and I built it into many, many billions of dollars. Many,
-Donald Trump: many billions. And when people see it, they are even surprised. So, we don't have to talk about that. Fracking? She's been against it for 12 years. Uh,
-Donald Trump: defund the police. She's been against that forever. She gave all that stuff up, very wrongly, very horribly. And everybody's laughing at it, okay?
-Donald Trump: They're all laughing at it. She gave up at least 12 and probably 14 or 15 different policies. Like, she was big on defund the police.
-Kamala Harris: That's not true. [mouthed, not audible]
-Donald Trump: In Minnesota, she went out -- wait a minute. I'm talking now. If you don't mind. Please. Does that sound familiar?
-Kamala Harris: Don't lie. [lie is audible]
-Donald Trump: She went out -- she went out in Minnesota and wanted to let criminals that killed people, that burned down Minneapolis,
-Donald Trump: she went out and raised money to get them out of jail. She did things that nobody would ever think of.
-Donald Trump: Now she wants to do transgender operations on illegal aliens that are in prison. This is a radical left liberal that would do this.
-Donald Trump: She wants to confiscate your guns and she will never allow fracking in Pennsylvania. If she won the election, fracking in Pennsylvania will end on day one.
-Donald Trump: Just to finish one thing, so important in my opinion, so, I got the oil business going like nobody has ever done before. They took, when they took over,
-Donald Trump: they got rid of it, started getting rid of it, and the prices were going up the roof. They immediately let these guys go to where they were.
-Donald Trump: I would have been five times, four times, five times higher because you're talking about 3 1/2 years ago.
-Donald Trump: They got it up to where I was because they had no choice. Because the prices of energy were quadrupling and doubling. You saw what happened to gasoline. So,
-Donald Trump: they said let's go back to Trump. But if she won the election, the day after that election, they'll go back to destroying our country and oil will be dead,
-Donald Trump: fossil fuel will be dead. We'll go back to windmills and we'll go back to solar, where they need a whole desert to get some energy to come out.
-Donald Trump: You ever see a solar plant? By the way, I'm a big fan of solar. But they take 400, 500 acres of desert soil--
+Donald Trump: First of all, I wasn't given $400 million. I wish I was. My father was a Brooklyn builder.
+Donald Trump: I learned a lot from him. I was given a tiny fraction of that and built it into many billions of dollars.
+Donald Trump: Fracking? She's been against it for 12 years.
+Donald Trump: Defund the police? She's been against that forever.
+Donald Trump: Everybody's laughing at it. She gave up at least 12 different policies.
+Kamala Harris: That's not true.
+Donald Trump: In Minnesota, she wanted to let criminals that burned down Minneapolis out of jail.
+Donald Trump: She raised money for them. Now she wants to do transgender operations on illegal aliens in prison.
+Donald Trump: This is a radical left liberal. She wants to confiscate your guns.
+Donald Trump: If she won the election, fracking in Pennsylvania will end on day one.
+Donald Trump: I got the oil business going like nobody ever has.
+Donald Trump: When they took over, they started getting rid of it, and prices were going through the roof.
+Donald Trump: They had no choice but to let it go back to where I had it.
+Donald Trump: Prices of energy were quadrupling and doubling. You saw what happened to gasoline. They said let's go back to Trump.
+Donald Trump: If she won, they'll go back to destroying our country and oil will be dead.
+Donald Trump: We’ll go back to windmills and solar, needing whole deserts to produce energy.
+Donald Trump: I'm a big fan of solar, but they take 400, 500 acres of desert soil.
 Player: President Trump--
-Donald Trump: These are not good things for the environment that she understands.
+Donald Trump: These are not good things for the environment.
 Player: President Trump, we have a lot of issues that we have to get to. We're out of time. Thank you.
 
 Capitol attack
 
-Player: I want to talk about the peaceful transfer of power--
-Player: which of course we all know was a cornerstone of our democracy and the role of a president in a moment of crisis.
-Player: Mr. President, on January 6th you told your supporters to march to the Capitol. You said you would be right there with them.
-Player: The country and the world saw what played out at the Capitol that day. The officers coming under attack.
-Player: Aides in the West Wing say you watched it unfold on television off the Oval Office. You did send out tweets,
-Player: but it was more than two hours before you sent out that video message telling your supporters to go home.
-Player: Is there anything you regret about what you did on that day?
-Donald Trump: You just said a thing that isn't covered. Peacefully and patriotically, I said during my speech. Not later on. Peacefully and patriotically.
-Donald Trump: And nobody on the other side was killed. Ashli Babbitt was shot by an out-of-control police officer that should have never, ever shot her. It's a disgrace.
-Donald Trump: But we didn't do -- this group of people that have been treated so badly. I ask, what about all the people that are pouring into our country and killing people?
-Donald Trump: That she allowed to pour in. She was the border czar. Remember that. She was the border czar.
-Donald Trump: She doesn't want to be called the border czar because she's embarrassed by the border. In fact, she said at the beginning,
-Donald Trump: I'm surprised you're not talking about the border yet. That's because she knows what a bad job they've done. What about those people? What's,
-Donald Trump: when are they going to be prosecuted -- when are these people from countries all over the world, not just South America,
-Donald Trump: they're coming in from all over the world, player, all over the world. And crime rates are down all over the world because of it --
+Player: I want to talk about the peaceful transfer of power, a cornerstone of our democracy.
+Player: Mr. President, on January 6th, you told your supporters to march to the Capitol. You said you'd be right there with them.
+Player: The country saw what played out that day. Officers came under attack.
+Player: Aides say you watched it unfold on television from the Oval Office. You did send tweets, but it was over two hours before you told your supporters to go home.
+Player: Is there anything you regret about what you did that day?
 
+Donald Trump: You just said something that isn't covered. I said to march peacefully and patriotically during my speech.
+Donald Trump: Nobody on the other side was killed. Ashli Babbitt was shot by a police officer that should never have shot her.
+Donald Trump: This group of people has been treated badly. What about all the people pouring into our country and killing people?
+Donald Trump: She allowed them to come in. She was the border czar.
+Donald Trump: She doesn't want to be called the border czar because she's embarrassed by it.
+Donald Trump: What about those people? When are they going to be prosecuted?
+Donald Trump: These people are coming in from all over the world. Crime rates are down because of it.
+
+Challenge! goto (b2)
 Player: But let me just ask you--
 Donald Trump: But when are those, player, when are those people going to be prosecuted? When are the people that burned down Minneapolis going to be prosecuted or in Seattle?
 Donald Trump: They went into Seattle, they took over a big percentage of the city of Seattle. When are those people going to be prosecuted?
+
+Keep challenging! goto (b1)
 Player: But let me just ask you--
 Donald Trump: You might ask her that question.
-Player: You were the president. You were watching it unfold on television. It's a very simple question as we move forward toward another election.
+Player: You were the president. You were watching it unfold on television. 
+Player: It's a very simple question as we move forward toward another election.
 Player: Is there anything you regret about what you did on that day? Yes or no.
 
-Donald Trump: I had nothing to do with that other than they asked me to make a speech. I showed up for a speech. I said, I think it's going to be big.
-Donald Trump: I went to Nancy Pelosi and the mayor of Washington, D.C. And the mayor put it back in writing, as you know. I said, you know,
-Donald Trump: this is going to be a very big rally or whatever you want to call it. And again, it wasn't done by me. It was done by others. I said I'd like to give you 10,
-Donald Trump: 000 National Guard or soldiers. They rejected me. Nancy Pelosi rejected me. It was just two weeks ago,
-Donald Trump: her daughter has a tape of her saying she is fully responsible for what happened. They want to get rid of that tape.
-Donald Trump: It would have never happened if Nancy Pelosi and the mayor of Washington did their jobs. I wasn't responsible for security. Nancy Pelosi was responsible.
-Donald Trump: She didn't do her job.
-Player: The question was about you as president, not about Former Speaker Pelosi. But I do want Vice President Harris to respond here.
-Kamala Harris: I was at the Capitol on January 6th. I was the Vice President-Elect. I was also an acting senator. I was there. And on that day,
-Kamala Harris: the president of the United States incited a violent mob to attack our nation's Capitol, to desecrate our nation's Capitol. On that day,
-Kamala Harris: 140 law enforcement officers were injured. And some died. And understand, the former president has been indicted and impeached for exactly that reason.
-Kamala Harris: But this is not an isolated situation. Let's remember Charlottesville, where there was a mob of people carrying tiki torches, spewing antisemitic hate,
-Kamala Harris: and what did the president then at the time say? There were fine people on each side. Let's remember that when it came to the Proud Boys, a militia,
-Kamala Harris: the president said, the former president said, "Stand back and stand by." So for everyone watching who remembers what January 6th was,
-Kamala Harris: I say we don't have to go back. Let's not go back. We're not going back. It's time to turn the page. And if that was a bridge too far for you, well,
-Kamala Harris: there is a place in our campaign for you. To stand for country. To stand for our democracy. To stand for rule of law. And to end the chaos.
-Kamala Harris: And to end the approach that is about attacking the foundations of our democracy 'cause you don't like the outcome. And be clear on that point.
-Kamala Harris: Donald Trump the candidate has said in this election there will be a bloodbath, if this -- and the outcome of this election is not to his liking.
-Kamala Harris: Let's turn the page on this. Let's not go back. Let's chart a course for the future and not go backwards to the past.
-Player: Let me just follow up here--
-Donald Trump: I have said blood bash, bath. It was a different term, and it was a term that related to energy, because they have destroyed our energy business.
-Donald Trump: That was where bloodbath was. Also, on Charlottesville, that story has been as you would say, debunked. Laura Ingraham, Sean Hannity,
-Donald Trump: Jesse -- all of these people, they covered it. If they go an extra sentence, they will see it was perfect. It was debunked in almost every newspaper.
-Donald Trump: But they still bring it up just like they bring 2025 up. They bring all of this stuff up. I ask you this. You talk about the Capitol.
-Donald Trump: Why are we allowing these millions of people to come through on the southern border? How come she's not doing -- and I'll tell you what I would do.
-Donald Trump: And I would be very proud to do it. I would say we would both leave this debate right now, I'd like to see her go down to Washington, D.C.
-Donald Trump: during this debate 'cause we're wasting a lot of time. Go down to -- because she's been so bad, it's so ridiculous. Go down to Washington, D.C.
-Donald Trump: And let her sign a bill to close up the border. Because they have the right to do it. They don't need bills. They have the right to do it.
-Donald Trump: The President of the United States, you'll get him out of bed. You'll wake him up at 4:00 in the afternoon, you'll say come on. Come on down to the office,
-Donald Trump: let's sign a bill. If he ... if he signs a bill that the border is closed, all he has to do is say it to the border patrol, who are phenomenal. If they do that,
-Donald Trump: the border is closed.
-Player: Mr. President --
-Donald Trump: Those people are killing many people, unlike J-6.
+Donald Trump: I had nothing to do with that other than being asked to make a speech. I said it would be a big event.
+Donald Trump: I went to Nancy Pelosi and the mayor of Washington, D.C. The mayor put it in writing.
+Donald Trump: I offered 10,000 National Guard or soldiers, but they rejected me. Nancy Pelosi rejected me.
+Donald Trump: Her daughter has a tape of her saying she's fully responsible for what happened.
+Donald Trump: It would have never happened if Nancy Pelosi and the mayor had done their jobs.
+Donald Trump: I wasn't responsible for security. Nancy Pelosi was responsible. She didn't do her job.
+
+(b1) Player: The question was about you as president, not about Former Speaker Pelosi. 
+(b2) Player: But I do want Vice President Harris to respond here.
+Kamala Harris: I was at the Capitol on January 6th as the Vice President-Elect and an acting senator.
+Kamala Harris: On that day, the president incited a violent mob to attack our nation's Capitol.
+Kamala Harris: 140 law enforcement officers were injured, and some died. The former president has been indicted and impeached for that reason.
+Kamala Harris: This isn't isolated. Remember Charlottesville? 
+Kamala Harris: There was a mob carrying tiki torches, spewing antisemitic hate, and the president said there were "fine people on each side."
+Kamala Harris: When it came to the Proud Boys, he said, "Stand back and stand by."
+Kamala Harris: For everyone watching, let's not go back to that. If January 6th was a bridge too far, there’s a place in our campaign for you.
+Kamala Harris: We need to stand for our democracy, rule of law, and end the chaos.
+Kamala Harris: Donald Trump has said there will be a bloodbath if the election doesn't go his way.
+Kamala Harris: Let's turn the page and chart a course for the future.
+
+Donald Trump: I said "bloodbath" in relation to energy because they've destroyed our energy business.
+Donald Trump: The Charlottesville story has been debunked. Laura Ingraham, Sean Hannity, Jesse— they all covered it.
+Donald Trump: If they read one more sentence, they'd see it was perfect. But they keep bringing it up, just like 2025.
+Donald Trump: Why are we allowing millions to come through the southern border? I’d be proud to say we should both leave this debate right now.
+Donald Trump: She should go down to Washington, D.C., and sign a bill to close the border.
+Donald Trump: They don’t need bills; they have the right to do it. The President of the United States can do it easily.
+Donald Trump: All he has to do is say it to the border patrol. If he does that, the border is closed.
+Donald Trump: Those people are killing many, unlike J-6.
 
 fraud election
 
