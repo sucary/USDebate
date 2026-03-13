@@ -208,6 +208,8 @@ style input:
 screen choice(items):
     style_prefix "choice"
 
+    add Solid("#000000aa")
+
     vbox:
         for i in items:
             textbutton i.caption action i.action
