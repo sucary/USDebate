@@ -1,4 +1,7 @@
-label closing:
+# Ending sequence - closing statements, transition, and winner announcement
+
+label ending_sequence:
+    # Closing statements
     $ harris_img = "harris default"
     $ trump_img = "trump default"
 
@@ -48,7 +51,56 @@ label closing:
     $ trump_img = "trump default"
 
     p "President Trump, thank you."
-    p "And that concludes the debate portion of tonight's broadcast."
-    p "We'll now turn to our analysts for their assessment."
+    p "And that concludes tonight's debate from the National Constitution Center in Philadelphia."
+
+    # Transition to results
+    "The candidates shake hands as the debate ends."
+    "Across the nation, Americans are casting their votes..."
+
+    p "Ladies and gentlemen, the votes are now being counted."
+
+    "Minutes pass as the nation waits with bated breath..."
+
+    p "We are now ready to announce the results of tonight's debate."
+
+    return
+
+label winner_announcement:
+    p "The American people have spoken."
+
+    "A pause as the tension builds..."
+
+    "The results appear on screens across the country..."
+
+    "The crowd erupts as the winner is announced."
+
+    p "The winner of tonight's presidential debate..."
+
+    # Announce winner
+    if harris_score > trump_score:
+        $ show_score_strip = True
+        p "Vice President Kamala Harris!"
+        $ harris_img = "harris smile"
+        h "Thank you, America. Together, we will chart a new way forward."
+        h "We're not going back!"
+    elif trump_score > harris_score:
+        $ show_score_strip = True
+        p "Former President Donald Trump!"
+        $ trump_img = "trump smile"
+        t "Thank you. We're going to make America great again."
+        t "Greater than ever before!"
+    else:
+        $ show_score_strip = True
+        p "In a historic outcome... tonight's debate is a tie."
+        p "The American people remain divided."
+        h "The fight continues."
+        t "We'll see you at the next one."
+
+    "And so concludes the presidential debate of September 10th, 2024."
+    "The fate of the nation now rests in the hands of the voters."
+
+    p "Thank you for watching."
+    p "We'll see you four years from now for the next debate."
+    p "Good night, America!"
 
     return

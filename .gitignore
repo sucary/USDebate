@@ -1,1 +1,18 @@
+# Ren'Py compiled/generated
+*.rpyc
+*.rpyb
+game/cache/
+game/saves/
+
+# Logs
+log.txt
+errors.txt
+traceback.txt
+
+# Project files
 manual_dialogs/
+
+# Temp files
+~$*
+*.bak
+*.tmp

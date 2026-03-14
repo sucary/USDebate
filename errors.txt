@@ -2,9 +2,61 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 52: reached end of line when expecting ':'.
-    if done
-           ^
+File "game/topics/game_flow.rpy", line 5: Line with id select_sections_4bd6e944 appears twice. The other line is game/game_flow.rpy:5
+
+File "game/topics/game_flow.rpy", line 6: Line with id select_sections_89e3a9a3 appears twice. The other line is game/game_flow.rpy:6
+
+File "game/topics/game_flow.rpy", line 145: Line with id show_results_d210b35f appears twice. The other line is game/game_flow.rpy:145
+
+File "game/topics/game_flow.rpy", line 146: Line with id show_results_854ea2f5 appears twice. The other line is game/game_flow.rpy:146
+
+File "game/topics/game_flow.rpy", line 150: Line with id show_results_6ae37421 appears twice. The other line is game/game_flow.rpy:150
+
+File "game/topics/game_flow.rpy", line 159: Line with id show_results_d3989261 appears twice. The other line is game/game_flow.rpy:159
+
+File "game/topics/game_flow.rpy", line 161: Line with id show_results_a00b4279 appears twice. The other line is game/game_flow.rpy:161
+
+File "game/topics/game_flow.rpy", line 163: Line with id show_results_d9f825da appears twice. The other line is game/game_flow.rpy:163
+
+File "game/topics/game_flow.rpy", line 165: Line with id show_results_ada322fc appears twice. The other line is game/game_flow.rpy:165
+
+File "game/topics/game_flow.rpy", line 167: Line with id show_results_a51eab84 appears twice. The other line is game/game_flow.rpy:167
+
+File "game/topics/game_flow.rpy", line 168: Line with id show_results_616467a6 appears twice. The other line is game/game_flow.rpy:168
+
+File "game/topics/game_flow.rpy", line 172: Line with id show_results_85f35bd6 appears twice. The other line is game/game_flow.rpy:172
+
+File "game/topics/game_flow.rpy", line 178: Line with id show_results_b5bd1dfb appears twice. The other line is game/game_flow.rpy:178
+
+File "game/topics/game_flow.rpy", line 187: Line with id show_results_f7689f07 appears twice. The other line is game/game_flow.rpy:187
+
+File "game/topics/game_flow.rpy", line 189: Line with id show_results_197807f8 appears twice. The other line is game/game_flow.rpy:189
+
+File "game/topics/game_flow.rpy", line 191: Line with id show_results_b6154373 appears twice. The other line is game/game_flow.rpy:191
+
+File "game/topics/game_flow.rpy", line 193: Line with id show_results_5c1147da appears twice. The other line is game/game_flow.rpy:193
+
+File "game/topics/game_flow.rpy", line 195: Line with id show_results_f522eaa5 appears twice. The other line is game/game_flow.rpy:195
+
+File "game/topics/game_flow.rpy", line 196: Line with id show_results_50268058 appears twice. The other line is game/game_flow.rpy:196
+
+File "game/topics/game_flow.rpy", line 200: Line with id show_results_94a3c61b appears twice. The other line is game/game_flow.rpy:200
+
+File "game/topics/game_flow.rpy", line 206: Line with id show_results_4ddecc4c appears twice. The other line is game/game_flow.rpy:206
+
+File "game/topics/game_flow.rpy", line 214: Line with id show_results_0304bb44 appears twice. The other line is game/game_flow.rpy:214
+
+File "game/topics/game_flow.rpy", line 215: Line with id show_results_ada322fc_1 appears twice. The other line is game/game_flow.rpy:215
+
+File "game/topics/game_flow.rpy", line 217: Line with id show_results_0e5860e9 appears twice. The other line is game/game_flow.rpy:217
+
+File "game/topics/game_flow.rpy", line 218: Line with id show_results_63a209e3 appears twice. The other line is game/game_flow.rpy:218
+
+File "game/topics/game_flow.rpy", line 220: Line with id show_results_507c1016 appears twice. The other line is game/game_flow.rpy:220
+
+File "game/topics/game_flow.rpy", line 222: Line with id show_results_5ccb65a8 appears twice. The other line is game/game_flow.rpy:222
+
+File "game/topics/game_flow.rpy", line 223: Line with id show_results_f5bf64de appears twice. The other line is game/game_flow.rpy:223
 
 Ren'Py Version: Ren'Py 8.3.2.24090902
-Fri Mar 13 19:00:52 2026
+Sat Mar 14 16:05:55 2026

@@ -1,38 +1,6 @@
-# Character images
-image harris default = "images/raw/harris_default.png"
-image harris smile = "images/raw/harris_smile.png"
-image harris laugh = "images/raw/harris_laugh.png"
-image harris attack = "images/raw/harris_attack.png"
+# Game logic and initialization
 
-image trump default = "images/raw/trump_default.png"
-image trump smile = "images/raw/trump_smile.png"
-image trump attack = "images/raw/trump_attack.png"
-image trump defensive = "images/raw/trump_defensive.png"
-
-default current_speaker = ""
-default harris_img = "harris default"
-default trump_img = "trump default"
-default debate_started = False
-
-screen debate_stage():
-    zorder 0
-
-    if harris_img:
-        add harris_img:
-            xalign 0.2
-            ypos 80
-            yanchor 0.0
-            alpha (1.0 if (current_speaker == "harris" or current_speaker == "") else 0.4)
-
-    if trump_img:
-        add trump_img:
-            xalign 0.8
-            ypos 80
-            yanchor 0.0
-            alpha (1.0 if (current_speaker == "trump" or current_speaker == "") else 0.4)
-
-# Initialize game variables and section management
-
+# Speaker callbacks
 init -10 python:
     def set_speaker_harris(event, interact=True, **kwargs):
         if event == "begin":
@@ -54,6 +22,7 @@ init -10 python:
         store.trump_img = "trump " + expression
         renpy.restart_interaction()
 
+# Section definitions and name colorization
 init python:
     all_sections = [
         ("economy", "Economy"),
@@ -115,35 +84,18 @@ init python:
 
     config.say_menu_text_filter = colorize_names
 
+# Game state variables
 default harris_score = 0
 default trump_score = 0
 default sections_completed = 0
 default selected_sections = []
 
 default current_section_name = ""
+default current_section_num = 0
 default current_question_num = 0
 default total_sections = 5
 
-# Section banner screen
-screen section_banner():
-    if current_section_name:
-        frame:
-            xalign 0.5
-            ypos 10
-            padding (30, 10)
-            background "#000000aa"
-            hbox:
-                spacing 20
-                if current_section_num > 0:
-                    text "[current_section_num]. [current_section_name]" size 24 color "#ffffff"
-                else:
-                    text current_section_name size 24 color "#ffffff"
-                if current_question_num > 0:
-                    text "|" size 24 color "#666666"
-                    text "Question [current_question_num]/2" size 24 color "#cccccc"
-
-default current_section_num = 0
-
+# Topic completion flags
 default done_economy = False
 default done_tariffs = False
 default done_abortion = False
